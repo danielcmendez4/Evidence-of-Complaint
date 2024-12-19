@@ -21,7 +21,7 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 **Lehman College Email Address:** daniel.mendez@lc.cuny.edu
 
-**The Type of Information Requested for fradulent link to website, but I do not have it:** Lehman email account user name, Lehman email account password, name, phone number, and others. 
+**The Type of Information Requested for fradulent link to website, but I do not have it:** College account user name, College account password, name, phone number, and others. 
 
 **Scam Methods Used:** Pretending to be from Lehman College IT (Information Technology) Department
 
