@@ -19,7 +19,6 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 # Technical Details for more additional Information:
 
-**Lehman College Email Address:** daniel.mendez@lc.cuny.edu
 
 **The Type of Information Requested for fradulent link to website, but I do not have it:** College account user name, College account password, name, phone number, and others. 
 
@@ -28,8 +27,6 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 **Social Media Communication:** No, Scammers did not use any social media. Scammers use the app called "Messages". 
 
 **Email Content**: Unknown, I do not have the email attachments.
-
-**Phone Number Used by Scammer:** 504-397-7001
 
 **Types of apps/browser I use when checking my Lehman College Email Account:** 
 
