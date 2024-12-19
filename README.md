@@ -27,6 +27,14 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 **Social Media Communication:** No, Scammers did not use any social media. Scammers use the app called "Messages". 
 
-**Email Content**: Unknown 
+**Email Content**: Unknown, I do not have the email attachments.
 
 **Phone Number Used by Scammer:** 504-397-7001
+
+**Types of apps/browser I use when checking my Lehman College Email Account:** 
+
+***Computer:*** Avast Secure Browser, Googgle Chrome, Microsoft Edge, Firefox 
+
+***website for computer: Microsoft 365***
+
+***app I use on iphone:*** Outlook
