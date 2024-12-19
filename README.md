@@ -17,3 +17,18 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 # Here's the link that you must visit:
 # https://www.bbb.org/scamtracker/lookupscam/920489
 
+# Technical Details for more additional Information:
+
+**Lehman College Email Address:** daniel.mendez@lc.cuny.edu
+
+**The Type of Information Requested for fradulent link to website, but I do not have it:** Lehman email account user name, Lehman email account password, name, phone number, and others. 
+
+**Scam Methods Used:** Pretending to be from Lehman College IT (Information Technology) Department
+
+**Device Used:**: iphone 8
+
+**Social Media Communication:** No, Scammers did not use any social media. Scammers use the app called "Messages". 
+
+**Email Content**: Unknown 
+
+**Phone Number Used by Scammer:** 504-397-7001
