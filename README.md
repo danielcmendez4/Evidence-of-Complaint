@@ -38,3 +38,5 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 ***website for computer:*** Microsoft 365
 
 ***app I use on iphone:*** Outlook
+
+# **NOTE: If you wanna search for the scammers/perpetrators, go to the link: https://www.intelius.com/**
