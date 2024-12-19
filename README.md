@@ -12,6 +12,8 @@ In an effort to regain access, I tried the **Forgot your password** option on th
 
 This incident has been deeply distressing. My Lehman College email is vital for academic, professional, and personal purposes. It contains important documents, including academic records and communications with professors. Being locked out has severely disrupted my ability to complete assignments, access college resources, and maintain communication with instructors, advisors, and peers. I need assistance immediately in recovering access to my email account and investigating any unauthorized activities to prevent further misuse. Additionally, I would appreciate guidance on putting stronger security measures, such as enhanced authentication protocols, to protect my account from future attacks. This situation underscores the need for vigilance against phishing scams, and I hope Lehman College's IT Department can resolve this issue promptly and effectively.
 
-Here's the link that you must visit:
-https://www.bbb.org/scamtracker/lookupscam/920489
+I am determined to ensure the perpetrator of this phishing scam is held accountable to the fullest extent of the law. This deliberate act of cybercrime not only caused significant personal distress and disrupted my academic and professional life, but also represents a serious violation of trust and security. I trust that the authorities will thoroughly investigate this matter, prosecute the offender(s), and take necessary measures to prevent similar incidents from occurring in the future, protecting others from such malicious acts.
+
+# Here's the link that you must visit:
+# https://www.bbb.org/scamtracker/lookupscam/920489
 
