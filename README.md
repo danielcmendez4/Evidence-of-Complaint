@@ -35,6 +35,6 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 ***Computer:*** Avast Secure Browser, Googgle Chrome, Microsoft Edge, Firefox 
 
-***website for computer: Microsoft 365***
+***website for computer:*** Microsoft 365
 
 ***app I use on iphone:*** Outlook
