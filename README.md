@@ -25,8 +25,6 @@ I am determined to ensure the perpetrator of this phishing scam is held accounta
 
 **Scam Methods Used:** Pretending to be from Lehman College IT (Information Technology) Department
 
-**Device Used:**: iphone 8
-
 **Social Media Communication:** No, Scammers did not use any social media. Scammers use the app called "Messages". 
 
 **Email Content**: Unknown 
